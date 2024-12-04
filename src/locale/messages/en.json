@@ -1,0 +1,553 @@
+{
+  "site": {
+    "header": {
+      "home": "Home",
+      "aboutUs": "About us",
+      "blogs": "Blogs",
+      "solutions": "Solutions",
+      "recuitment": "Recruitment",
+      "contactUs": "Contact us"
+    },
+    "homePage": {
+      "heroSectionSlogan": "We deliver your ideas with the highest quality",
+      "hero": {
+        "about_title": "About Us",
+        "about_description": "A Saudi company specialized in selling and installing smart security devices that operate with modern and contemporary technologies. Our goal is to achieve a high level of security and safety for all our clients in the Kingdom of Saudi Arabia.",
+        "grow_business": "Grow Your Business With Us"
+      },
+      "agencyInfo": {
+        "get_in_touch": "Get In Touch With US",
+        "get_in_touch_description": "Dear client you can use these contact inforamtion to get in touch with us."
+      },
+      "hero_intro": "Smart Security Solutions",
+      "hero_intro_description": "We simplify life with innovative solutions for sustainable security, keeping you closer to your belongings.",
+      "company_features": "Limitless technology and passionate ideas result in solutions that meet market demands, simplify life, and bring you closer than you imagine to every part of your possessions. At SMARTDAY, we strive to achieve everything you're looking for in all your projects with protection, control, and innovation, while taking into account the highest global standards of quality and safety.",
+      "about_us": "About Us?",
+      "about_us_content": "A leading institution based in Riyadh, Saudi Arabia, specializing in the sale, installation, and maintenance of all security device solutions, anti-theft alarm systems, early fire warning systems, AI-based surveillance camera systems, multi-audio systems, smart doorbell systems, home communication networks, smart home systems, smart lighting poles, and Building Management Systems (BMS). We provide security and smart solutions and consulting services to a diverse range of clients, including residential, corporate, and government institutions.",
+      "our_values": "Our Values",
+      "excellence": "Excellence",
+      "innovation": "Innovation",
+      "integrity": "Integrity",
+      "clients_first": "Clients First",
+      "collaboration": "Collaboration",
+      "excellence_content": "We are committed to providing the best products and services with high quality that meets and exceeds our customers' expectations",
+      "innovation_content": "We invest in modern technology and innovation to offer advanced solutions that meet the needs of the modern era",
+      "integrity_content": "We operate with the highest standards of integrity and transparency in all our dealings",
+      "clients_first_content": "We always strive to provide the best experience for our customers by understanding their needs and offering suitable solutions",
+      "collaboration_content": "We believe in the importance of teamwork and collaboration to achieve common goals",
+      "our_vision": "Our Vision",
+      "our_vision_content": "We strive to be the leading provider of security solutions and smart systems in Saudi Arabia by offering integrated solutions that rely on the latest technologies and innovations to enhance safety, efficiency, and comfort for our customers. We aspire to achieve a safer and smarter community by providing tailored solutions that meet the needs of each individual client.",
+      "our_team": "Our Technical Team",
+      "our_team_content": "Our technical team consists of a group of experts specialized in the fields of security and smart systems. The team has extensive experience and deep knowledge of the latest technologies and innovations in this field. We are committed to providing continuous training for our team to ensure the best solutions and services for our clients.",
+      "our_values_header": "All Security Protection Tasks in One Place",
+      "our_values_subheader": "Choose the most comprehensive security protection program in Saudi Arabia",
+      "our_partners_header": "Partnerships Aimed at Partner Success",
+      "our_partners_subheader": "We believe that collaboration is always a shortcut to success. Let’s embrace partnerships that aim to provide smarter security solutions and enhance safety across all sectors."
+    },
+    "contactUsPage": {
+      "contactUS": "We are happy to receive your inquiries",
+      "content": "Here at SmartDay, we welcome all your inquiries and suggestions.\nFeel free to contact us through the following ways for assistance or more information about our services.",
+      "companyPhoneNumber": "Phone number",
+      "companyEmail": "Email",
+      "companyAddress": "Address",
+      "workingHours": "Working Hours",
+      "companyPhoneNumberInfo": "+966 55 666 8145",
+      "companyEmailInfo": "info@sd.com.sa",
+      "companyAddressInfo": "RIYAD MALAZ DHAHRAN St",
+      "workingHoursInfo": "Sunday to Thursday: from 8:00 AM to 4:00 PM"
+    },
+    "aboutUsPage": {
+      "aboutUS": "About us",
+      "content": "A leading institution based in Riyadh, Saudi Arabia, specializing in the sale, installation, and maintenance of all security device solutions, anti-theft alarm systems, early fire warning systems, AI-based surveillance camera systems, multi-audio systems, smart doorbell systems, home communication networks, smart home systems, smart lighting poles, and Building Management Systems (BMS). We provide security and smart solutions and consulting services to a diverse range of clients, including residential, corporate, and government institutions."
+    },
+    "headerGroups": {
+      "categoriesHeader": "Solutions of SmartDay",
+      "categoriesSubheader": "Discover all of our solutions, we have wide range of solutions that meet your safety expectations",
+      "blogsHeader": "SmartDay's Journey Full of Achievements",
+      "blogsSubheader": "Browse the latest projects of SmartDay. Our history is full of achievements, and we are proudly trusted by many clients in the Kingdom of Saudi Arabia.",
+      "partnersHeader": "Our Partners in the Journey of Success",
+      "partnersSubheader": "SmartDay is proud of a journey marked by success, during which we contributed to achieving the goals of many partners"
+    },
+    "form": {
+      "formContent": {
+        "contact": {
+          "header": "Contact Us",
+          "subheader": "Our team looks forward to receiving your inquiries and questions to provide you with absolute support with great care and diligence for your needs.\nDo not hesitate to contact us and request technical support from our team."
+        },
+        "categoryOrder": {
+          "header": "Service Request Form",
+          "subheader": "Please fill out the form with your details to order this service."
+        },
+        "news": {
+          "header": "News",
+          "subheader": "Add new news to news tape"
+        }
+      },
+      "formInput": {
+        "fullName": "Full Name",
+        "email": "Email",
+        "phoneNumber": "Phone Number",
+        "city": "City",
+        "address": "Address",
+        "specifyingDate": "Specify Date",
+        "pleaseSpecifyConvinientDate": "Specify a Convenient Date",
+        "letterTitle": "Letter Title",
+        "letterSubject": "Letter Subject",
+        "additionalNotes": "Additional Notes",
+        "serviceName": "Service Name",
+        "pleaseAddServiceName": "Please Add Service Name",
+        "newsAR": "News in Arabic",
+        "newsEN": "News in English"
+      }
+    },
+    "blog": {
+      "blogPostedAt": "Blog add at"
+    },
+    "footer": {
+      "description": "SmartDay Office in Kingdom Of Saudi Arabia",
+      "coyrights": "Copyrights reserved",
+      "developer": "Developed by Oussama Douadi"
+    }
+  },
+  "callToAction": {
+    "login": "Login",
+    "backToBlogs": "Back to Blogs",
+    "addBlog": "Add Blog",
+    "addNewBlog": "Add new",
+    "additionalSettings": "Additional Settings",
+    "deleteAllBlogs": "Delete All Blogs",
+    "backToDashboard": "Back to Dashboard",
+    "actions": "Actions",
+    "editBlog": "Edit Blog",
+    "deleteBlog": "Delete Blog",
+    "saveEdits": "Save edits",
+    "newCategory": "Add new",
+    "deleteAllCategories": "Delete All Categories",
+    "showServices": "Show Services",
+    "editCategory": "Edit Category",
+    "deleteCategory": "Delete Category",
+    "backToCategories": "Back to Categories",
+    "addCategory": "Add Category",
+    "deleteAllServices": "Delete All Services",
+    "categories": "Categories",
+    "addService": "Add service",
+    "editService": "Edit Service",
+    "deleteService": "Delete Service",
+    "backToServices": "Back to Services",
+    "addImage": "Add Image",
+    "editImage": "Edit Image",
+    "deleteImage": "Delete Image",
+    "backToImages": "Back to Images",
+    "addNewImage": "Add new",
+    "deleteAllImages": "Delete All Images",
+    "deleteAllOrders": "Delete All Orders",
+    "viewOrder": "View Order",
+    "deleteOrder": "Delete Order",
+    "sendLetter": "Send Letter",
+    "sendOrder": "Send Order",
+    "readMore": "Read More",
+    "share": "Share",
+    "showAllBlogs": "All blogs",
+    "visitSite": "Visit site",
+    "visitDashboard": "Dashboard",
+    "addTheService": "Add the service",
+    "sharingTheBlog": "Share this blog",
+    "sharingTheBlogDescription": "Share our blog on social media platforms",
+    "close": "Close",
+    "addNews": "Add news",
+    "deleteNews": "Delete News",
+    "addNewsFail": "Fail to add news",
+    "addNewsSuccess": "News added successfully",
+    "orderNow": "Order Now",
+    "contact_us": "Contact Us",
+    "download_portfolio": "Portfolio",
+    "back": "back",
+    "home": "Home"
+  },
+  "responses": {
+    "orderSent": "Order sent successfully",
+    "sendingOrderFailed": "Failed to send order",
+    "pleaseTryAgain": "Please try again!",
+    "blogAddedSuccessfully": "Blog added successfully",
+    "failedToAddBlog": "Failed to add blog",
+    "allBlogsDeletedSuccessfully": "All blogs deleted successfully",
+    "failedToDeleteAllBlogs": "Failed to delete all blogs",
+    "blogDeletedSuccessfully": "Blog deleted successfully",
+    "failedToDeleteBlog": "Failed to delete blog",
+    "noResult": "No results found",
+    "failedToGetBlogDetails": "Failed to get blog details",
+    "blogEditedSuccessfully": "Blog edited successfully",
+    "failedToEditBlog": "Failed to edit blog",
+    "allCategoriesDeletedSuccessfully": "All categories deleted successfully",
+    "failedToDeleteAllCategories": "Failed to delete all categories",
+    "categoryDeletedSuccessfully": "Category deleted successfully",
+    "failedTodeleteCategory": "Failed to delete category",
+    "categoryAddedSuccessfully": "Category added successfully",
+    "failedToCategory": "Failed to add category",
+    "failedToGetCategoryDetails": "Failed to get  category details",
+    "categoryEditedSuccessfully": "Category edited successfully",
+    "failedToEditCategory": "Failed to edit category",
+    "failedToGetImageDetails": "Failed to get image details",
+    "orderDeletedSuccessfully": "Order deleted successfully",
+    "failedToDeleteOrder": "Failed to delete order",
+    "failedToGetOrderDetails": "Failed to get order details",
+    "allOrdersDeletedSuccessfully": "All orders deleted successfully",
+    "failedToDeleteAllOrders": "Failed to delete all orders",
+    "imageDeletedSuccessfully": "Image deleted successfully",
+    "deleteSuccess": "Deleted successfully",
+    "deleteFail": "Failed to delete",
+    "updateSuccess": "Updated successfully",
+    "updateFail": "Failed to update",
+    "addSuccess": "Added successfully",
+    "addFail": "Failed to add",
+    "fetchFail": "Failed to fetch data",
+    "sendOrderSuccess": "order sent successfully",
+    "sendOrderFail": "Failed to send order"
+  },
+  "dashboard": {
+    "header": {
+      "dashboardMain": "Dashboard",
+      "categories": "Categories",
+      "gallery": "Gallery",
+      "orders": "Orders",
+      "support": "Customer support",
+      "blogs": "Blogs"
+    },
+    "home": {
+      "serviceCount": "Services",
+      "categoryCount": "Categories",
+      "serviceOrdersCount": "Orders",
+      "contactCount": "Contact Messages"
+    },
+    "blog": {
+      "detailsTitle": "Basic Blog Details",
+      "detailsDescription": "Please enter the following information correctly to create a new blog.",
+      "imageLabel": "Add expressive image for the blog",
+      "titleAR": "Blog Title in Arabic",
+      "titleEN": "Blog Title in English",
+      "shortDescriptionAR": "Short description of the blog in Arabic",
+      "shortDescriptionEN": "Short description of the blog in English",
+      "longDescriptionAR": "Detailed description of the blog in Arabic",
+      "longDescriptionEN": "Detailed description of the blog in English",
+      "SEOSettings": "SEO Settings",
+      "SEOSettingsDescription": "Optimize search engines for the blog page",
+      "pageTitleAR": "Page title of the blog in Arabic",
+      "pageTitleEN": "Page title of the blog in English",
+      "pageDescriptionAR": "Page description of the blog in Arabic",
+      "pageDescriptionEN": "Page description of the blog in English",
+      "blogs": "Blogs",
+      "allBlogs": "All Blogs",
+      "blogTitle": "Blog Title",
+      "blogCreatedAt": "All Blogs",
+      "EditingBlogMainDetails": "Editing Main Blog Details",
+      "EditingBlogMainDetailsDescription": "Please enter the following information correctly to edit the blog.",
+      "editingBlogImage": "Editing Blog Image",
+      "editingBlogTitleAR": "Editing Blog Title in Arabic",
+      "editingBlogTitleEN": "Editing Blog Title in English",
+      "editingBlogShortDescriptionAR": "Editing Short Description in Arabic",
+      "editingBlogShortDescriptionEN": "Editing Short Description in English",
+      "editingBlogLongDescriptionAR": "Editing Detailed Description in Arabic",
+      "editingBlogLongDescriptionEN": "Editing Detailed Description in English",
+      "editingSEOSettings": "Editing SEO Settings",
+      "editingSEOSettingsDescription": "Editing settings for optimizing search engines for the blog page",
+      "editingPageTitleAR": "Editing Page Title in Arabic",
+      "editingPageTitleEN": "Editing Page Title in English",
+      "editingPageDescriptionAR": "Editing Page Description in Arabic",
+      "editingPageDescriptionEN": "Editing Page Description in English"
+    },
+    "category": {
+      "detailsTitle": "Basic Category Details",
+      "detailsDescription": "Please enter the following information correctly to create a new category.",
+      "categoryImage": "Category Image",
+      "titleAR": "Category title in Arabic",
+      "titleEN": "Category title in English",
+      "descriptionAR": "Category description in Arabic",
+      "descriptionEN": "Category description in English",
+      "summaryAR": "Category summary in Arabic",
+      "summaryEN": "Category summary in English",
+      "SEOSettings": "SEO Settings",
+      "SEOSettingsDescription": "Optimize search engines for the category page",
+      "pageTitleAR": "Page title of the category in Arabic",
+      "pageTitleEN": "Page title of the category in English",
+      "pageDescriptionAR": "Page description of the category in Arabic",
+      "pageDescriptionEN": "Page description of the category in English",
+      "categories": "Categories",
+      "allCategories": "All Categories",
+      "editingCategoryMainDetails": "Editing Main Category Details",
+      "editingCategoryMainDetailsDescription": "Please enter the following information correctly to edit the category.",
+      "editingCategoryImage": "Editing Category Image",
+      "editingCategoryTitleAR": "Editing Category Title in Arabic",
+      "editingCategoryTitleEN": "Editing Category Title in English",
+      "editingCategorySummaryAR": "Editing Category Summary in Arabic",
+      "editingCategorySummaryEN": "Editing Category Summary in English",
+      "editingCategoryDescriptionAR": "Editing Short Description in Arabic",
+      "editingCategoryDescriptionEN": "Editing Short Description in English",
+      "editingSEOSettings": "Editing SEO Settings",
+      "editingSEOSettingsDescription": "Editing settings for optimizing search engines for the category page",
+      "editingPageTitleAR": "Editing Page Title in Arabic",
+      "editingPageTitleEN": "Editing Page Title in English",
+      "editingPageDescriptionAR": "Editing Page Description in Arabic",
+      "editingPageDescriptionEN": "Editing Page Description in English"
+    },
+    "contact": {
+      "contactMessages": "Contact Messages",
+      "allContactMessages": "All Contact Messages",
+      "contactDetails": "Contact Details"
+    },
+    "order": {
+      "orders": "Orders",
+      "allOrders": "All orders"
+    },
+    "orderView": {
+      "orderDetails": "Order details",
+      "contactDetails": "Contact Details",
+      "fullName": "Full name",
+      "email": "Email",
+      "phoneNumber": "Phone number",
+      "city": "city",
+      "address": "Address",
+      "serviceName": "Service",
+      "orderCreatedAt": "Order date",
+      "speciedData": "Specified date",
+      "letterTitle": "Letter title",
+      "letterSubject": "Letter subject"
+    },
+    "stats": {
+      "visitorsByDevice": "Users by device",
+      "testTranding": "Trending up by 5.2% this month ",
+      "testTranding2": " Showing total visitors for the last 6 months",
+      "visitors": "Total visits",
+      "visitorsDescription": "Showing total visitors for the last 3 months",
+      "desktop": "Desktop",
+      "mobile": "Mobile",
+      "visit": "Visit",
+      "visitorCount": "Visitors number"
+    },
+    "settings": {
+      "designSettings": "Design settings",
+      "informationSettings": "Website information",
+      "usersSettings": "Users settigns",
+      "languageSettings": "Language settings",
+      "marketingSettings": "Marketing settings",
+      "changeCurrentMode": "Change current theme",
+      "changeCurrentModeDescription": "Choose theme for dashboard",
+      "lightMode": "Light theme",
+      "darkMode": "Dark theme",
+      "SEOSettingsTitle": "SEO improvment",
+      "SEOSettingsDescription": "Setting title and description metadata",
+      "homePageTitleAR": "Homepage title in arabic",
+      "homePageTitleEN": "Homepage title in english",
+      "homePageDescriptionAR": "Homepage description in arabic",
+      "homePageDescriptionEN": "Homepage description in english",
+      "aboutUsPageTitleAR": "About us page title in arabic",
+      "aboutUsPageTitleEN": "About us page title in english",
+      "aboutUsPageDescriptionAR": "About us page description in arabic",
+      "aboutUsPageDescriptionEN": "About us page description in english",
+
+      "pricingPageTitleAR": "Pricing page title in arabic",
+      "pricingPageTitleEN": "Pricing page title in english",
+      "pricingPageDescriptionAR": "Pricing page description in arabic",
+      "pricingPageDescriptionEN": "Pricing page description in english",
+
+      "contactPageTitleAR": "Contact page title in arabic",
+      "contactPageTitleEN": "Contact page title in english",
+      "contactPageDescriptionAR": "Contact page description in arabic",
+      "contactPageDescriptionEN": "Contact page description in english",
+      "blogsPageTitleAR": "Blogs page title in arabic",
+      "blogsPageTitleEN": "Blogs page title in english",
+      "blogsPageDescriptionAR": "Blogs page description in arabic",
+      "blogsPageDescriptionEN": "Blogs page description in english",
+      "homepage": "Home page",
+      "aboutUsPage": "About us page",
+      "contactPage": "Contact us page",
+      "pricingPage": "Pricing page",
+      "blogsPage": "Blogs page"
+    }
+  },
+  "table": {
+    "blogTitle": "Title",
+    "blogCreatedAt": "Added at",
+    "categoryTitle": "Category Title",
+    "categoryCreatedAt": "Added at",
+    "servicesCount": "Services",
+    "serviceTitle": "Service Title",
+    "serviceCategory": "Category",
+    "serviceCreatedAt": "Added at",
+    "imageTitle": "Image Title",
+    "imageStatus": "Status",
+    "imageCreatedAt": "Added at",
+    "clientName": "Name",
+    "email": "Email",
+    "actions": "Actions",
+    "orderCreatedAt": "Ordered at",
+    "newsTitle": "News Title",
+    "newsCreatedAt": "Added at"
+  },
+  "common": {
+    "brandFullName": "SmartDay for Safety Solutions",
+    "slogan": "Innovation for permanent safety",
+    "previous": "Previous",
+    "next": "Next",
+    "lightMode": "Light mode",
+    "darkMode": "Dark mode",
+    "allServices": "All services"
+  },
+  "validationBlog": {
+    "title": {
+      "ar": "Category name in Arabic is required.",
+      "en": "Category name in English is required."
+    },
+    "shortDescription": {
+      "ar": "Category description in Arabic is required.",
+      "en": "Category description in English is required."
+    },
+    "longDescription": {
+      "ar": "Category description in Arabic is required.",
+      "en": "Category description in English is required."
+    },
+    "SEOSettings": {
+      "pageTitle": {
+        "ar": "Page title in Arabic is required.",
+        "en": "Page title in English is required."
+      },
+      "pageDescription": {
+        "ar": "Page description in Arabic is required.",
+        "en": "Page description in English is required."
+      }
+    }
+  },
+  "validationCategory": {
+    "title": {
+      "ar": "Category name in Arabic is required.",
+      "en": "Category name in English is required."
+    },
+    "summary": {
+      "ar": "Category summary in Arabic is required.",
+      "en": "Category summary in English is required."
+    },
+    "description": {
+      "ar": "Category description in Arabic is required.",
+      "en": "Category description in English is required."
+    },
+    "SEOSettings": {
+      "pageTitle": {
+        "ar": "Page title in Arabic is required.",
+        "en": "Page title in English is required."
+      },
+      "pageDescription": {
+        "ar": "Page description in Arabic is required.",
+        "en": "Page description in English is required."
+      }
+    }
+  },
+  "validationConsulting": {
+    "fullName": "Full name is required.",
+    "email": "Email is required.",
+    "phoneNumber": "Phone number is required.",
+    "city": "City is required.",
+    "address": "Address is required.",
+    "date": "Date is required."
+  },
+  "validationContact": {
+    "fullName": "Full name is required.",
+    "email": "Email is required.",
+    "phoneNumber": "Phone number is required.",
+    "letterTitle": "Letter title is required.",
+    "letterSubject": "Letter subject is required."
+  },
+  "validationPricing": {
+    "fullName": "Full name is required.",
+    "email": "Email is required.",
+    "phoneNumber": "Phone number is required.",
+    "city": "City is required.",
+    "address": "Address is required.",
+    "service": "Service is required."
+  },
+  "validationServiceOrder": {
+    "fullName": "Full name is required.",
+    "email": "Email is required.",
+    "phoneNumber": "Phone number is required.",
+    "city": "City is required.",
+    "address": "Address is required.",
+    "serviceId": "Service ID is required.",
+    "additionalNotes": "Additional notes are required."
+  },
+  "validationService": {
+    "title": {
+      "ar": "Service name in Arabic is required.",
+      "en": "Service name in English is required."
+    },
+    "description": {
+      "ar": "Service description in Arabic is required.",
+      "en": "Service description in English is required."
+    },
+    "category": "Category is required.",
+    "SEOSettings": {
+      "pageTitle": {
+        "ar": "SEO page title in Arabic is required.",
+        "en": "SEO page title in English is required."
+      },
+      "pageDescription": {
+        "ar": "SEO page description in Arabic is required.",
+        "en": "SEO page description in English is required."
+      }
+    },
+    "serviceBanner": "Service banner is required."
+  },
+  "validationNews": {
+    "newsAR": "News in Arabic is required",
+    "newsEN": "News in English is required"
+  },
+  "validationMetadata": {
+    "homePageMetadata": {
+      "title": {
+        "ar": "Title in Arabic is required.",
+        "en": "Title in English is required."
+      },
+      "description": {
+        "ar": "Description in Arabic is required.",
+        "en": "Description in English is required."
+      }
+    },
+    "aboutUsPageMetadata": {
+      "title": {
+        "ar": "Title in Arabic is required.",
+        "en": "Title in English is required."
+      },
+      "description": {
+        "ar": "Description in Arabic is required.",
+        "en": "Description in English is required."
+      }
+    },
+    "pricingPageMetadata": {
+      "title": {
+        "ar": "Title in Arabic is required.",
+        "en": "Title in English is required."
+      },
+      "description": {
+        "ar": "Description in Arabic is required.",
+        "en": "Description in English is required."
+      }
+    },
+    "contactPageMetadata": {
+      "title": {
+        "ar": "Title in Arabic is required.",
+        "en": "Title in English is required."
+      },
+      "description": {
+        "ar": "Description in Arabic is required.",
+        "en": "Description in English is required."
+      }
+    },
+    "blogsPageMetadata": {
+      "title": {
+        "ar": "Title in Arabic is required.",
+        "en": "Title in English is required."
+      },
+      "description": {
+        "ar": "Description in Arabic is required.",
+        "en": "Description in English is required."
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+User-agent: Googlebot
+User-agent: Googlebot-News
+User-agent: Feedfetcher-Google
+User-agent: Googlebot-Image
+Allow: /
+
+Sitemap: https://abak.com.sa/sitemap-ar.xml
+
+Sitemap: https://abak.com.sa/sitemap-en.xml
